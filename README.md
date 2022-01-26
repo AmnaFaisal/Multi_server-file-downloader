@@ -1,4 +1,8 @@
 # Multi_server-file-downloader
-A file downloader system that downloads a large video from multiple servers and then combines them at the client to produce the original video.
-To run this code, you're gonna have to put the fileprocessing.py file in each of the 4 servers and the client as well.
-Download a 20MB video from the internet to your local drive and upload that in the code.
+
+A file downloader system in Python, that downloads a large video from multiple servers and combines them at the client to produce the original video.
+
+To run this code, put the fileprocessing.py file in the folders of each oth client and servers.
+Next, put an appprox. 20MB video in the folder of each of the servers.
+Run the servers first and make sure they are ready to establish a connection.
+Run the client.
